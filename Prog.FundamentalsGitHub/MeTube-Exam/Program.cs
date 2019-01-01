@@ -21,7 +21,7 @@ namespace MeTube_Exam
     {
         static void Main(string[] args)
         {
-            //Prog. Fundamentals Exam problem - Dictionaries, Objects & Classes
+            //Prog. Fundamentals Exam problem - Objects & Classes
 
             var allVideos = new List<Video>();
             var line = Console.ReadLine();
