@@ -8,7 +8,7 @@ namespace ChatLogger
     {
         static void Main(string[] args)
         {
-            //  Prog.Fundamentals Exam - Problem with Lists, Arrays 
+            // Prog.Fundamentals Exam - Problem with Lists, Arrays 
 
             var inputCommands = Console.ReadLine().Split(' ').ToList();
             var result = new List<string>();
