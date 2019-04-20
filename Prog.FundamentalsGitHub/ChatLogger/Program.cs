@@ -54,7 +54,7 @@ namespace ChatLogger
 
                 inputCommands = Console.ReadLine().Split(' ').ToList();
             }
-
+            
             foreach (var word in result)
             {
                 Console.WriteLine(word);
